@@ -1,5 +1,4 @@
 // C++20 Standard
-// This program doesn't include input validation.
 
 #include <iostream>
 
